@@ -1,0 +1,441 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.74944,
+            59.90611
+          ],
+          [
+            10.74944,
+            59.90611
+          ],
+          [
+            10.75778,
+            59.90611
+          ],
+          [
+            10.75167,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75167,
+            59.9075
+          ],
+          [
+            10.75167,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75167,
+            59.9075
+          ],
+          [
+            10.75167,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75222,
+            59.90417
+          ],
+          [
+            10.75056,
+            59.9075
+          ],
+          [
+            10.75056,
+            59.9075
+          ]
+        ]
+      },
+      "properties": {
+        "track_id": "RING_NOS_4301364",
+        "name": "Herring Gull (Black ring with white code: JMT94 LBM;RBNW(JMT94))",
+        "total_distance_km": 1.9,
+        "total_duration_days": 0.0,
+        "start_location": "Bj\u00f8rvika, Oslo, Akershus & Oslo, Norway",
+        "end_location": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74944,
+          59.90611
+        ]
+      },
+      "properties": {
+        "index": 1,
+        "timestamp": "31.01 2024 08:-- Accurate to the day",
+        "location_name": "Bj\u00f8rvika, Oslo, Akershus & Oslo, Norway",
+        "event_type": "ringing",
+        "notes": "Initially banded by Carsten Lome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74944,
+          59.90611
+        ]
+      },
+      "properties": {
+        "index": 2,
+        "timestamp": "03.02 2024 --:-- Accurate to the day",
+        "location_name": "Bj\u00f8rvika, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 3 days (0 years, 0 months and 3 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75778,
+          59.90611
+        ]
+      },
+      "properties": {
+        "index": 3,
+        "timestamp": "20.02 2024 16:15 Accurate to the day",
+        "location_name": "Bispevika, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 20 days (0 years, 0 months and 20 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75167,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 4,
+        "timestamp": "17.03 2024 --:-- Accurate to the day",
+        "location_name": "Operaen, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 46 days (0 years, 1 months and 14 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 5,
+        "timestamp": "01.04 2024 12:-- Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 61 days (0 years, 2 months and 1 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 6,
+        "timestamp": "03.04 2024 17:30 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 63 days (0 years, 2 months and 3 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75167,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 7,
+        "timestamp": "04.04 2024 06:43 Accurate to the day",
+        "location_name": "Operaen, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 64 days (0 years, 2 months and 4 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75167,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 8,
+        "timestamp": "04.04 2024 14:30 Accurate to the day",
+        "location_name": "Operaen, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 64 days (0 years, 2 months and 4 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 9,
+        "timestamp": "16.04 2024 17:20 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 76 days (0 years, 2 months and 16 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 10,
+        "timestamp": "18.05 2024 15:45 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 108 days (0 years, 3 months and 17 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 11,
+        "timestamp": "20.05 2024 09:00 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 110 days (0 years, 3 months and 19 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75167,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 12,
+        "timestamp": "22.05 2024 --:-- Accurate to the day",
+        "location_name": "Operaen, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 112 days (0 years, 3 months and 21 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75167,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 13,
+        "timestamp": "22.06 2024 --:-- Accurate to the day",
+        "location_name": "Operaen, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 143 days (0 years, 4 months and 22 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 14,
+        "timestamp": "02.07 2024 15:30 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 153 days (0 years, 5 months and 1 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 15,
+        "timestamp": "29.07 2024 15:50 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 180 days (0 years, 5 months and 28 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 16,
+        "timestamp": "05.08 2024 15:45 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 187 days (0 years, 6 months and 5 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 17,
+        "timestamp": "13.08 2024 16:10 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 195 days (0 years, 6 months and 13 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75222,
+          59.90417
+        ]
+      },
+      "properties": {
+        "index": 18,
+        "timestamp": "23.08 2024 17:48 Accurate to the day",
+        "location_name": "Opera House, Oslo, Mandal, Vest-Agder, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 205 days (0 years, 6 months and 23 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 19,
+        "timestamp": "29.08 2024 18:00 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 211 days (0 years, 6 months and 29 days)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75056,
+          59.9075
+        ]
+      },
+      "properties": {
+        "index": 20,
+        "timestamp": "04.09 2024 16:00 Accurate to the day",
+        "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 0 km, Time elapsed: 217 days (0 years, 7 months and 4 days)"
+      }
+    }
+  ]
+}

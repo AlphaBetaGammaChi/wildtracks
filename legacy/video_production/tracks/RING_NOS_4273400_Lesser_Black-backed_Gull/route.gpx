@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="WildlifeTrackVideoPrep" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Lesser Black-backed Gull - Black ring with white code: JP36R LBM;RBNW(JP36R)</name><desc>Colour-ringed individual tracked over 2 verified encounters across Western Europe & Scandinavia.</desc></metadata>
+  <trk>
+    <name>Lesser Black-backed Gull Flight Route</name>
+    <trkseg>
+      <trkpt lat="60.38444" lon="5.32861"><time>20.08 2024 14:-- Accurate to the day</time></trkpt>
+      <trkpt lat="60.39111" lon="5.3275"><time>26.08 2024 15:14 Accurate to the day</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

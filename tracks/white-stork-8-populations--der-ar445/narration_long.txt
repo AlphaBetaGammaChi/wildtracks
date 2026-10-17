@@ -1,0 +1,39 @@
+# White stork AR445 (long)
+# Read each [scene] as written, leaving a short pause between scenes.
+# To change the wording, edit scenes_<format>.json and run `wildtracks narration <track>`.
+
+[s1]
+This young white stork flew from Russia to South Africa. This is its real GPS track.
+
+[s2]
+In July 2013, researchers put a GPS tag on it near Obninsk in Russia. Its code: AR445.
+
+[s3]
+On 20 August 2013, AR445 set off south. In 23 days it flew at least 4,900 kilometres, through Ukraine, Bulgaria, Turkey, Syria, Palestine, Israel, Egypt and Sudan. Like most storks it avoided open sea, keeping close to land along the Black Sea, Sea of Marmara, Mediterranean Sea and Red Sea. Its route crossed the Sahara. On 9 September alone it covered 441 kilometres, its biggest day. Then it stopped for 6 days in Sudan.
+
+[s4]
+On 16 September it moved on, heading south-east. In 1 day it flew at least 170 kilometres. Then it rested for 15 days in Sudan.
+
+[s5]
+On 1 October it moved on, heading east. In 3 days it flew at least 190 kilometres. Then it paused for 9 days in Sudan.
+
+[s6]
+On 12 October it moved on, heading south-east. In 7 days it flew at least 620 kilometres, through Eritrea. Then it stopped for 7 days in Sudan.
+
+[s7]
+On 25 October it moved on, heading south. In 11 days it flew at least 920 kilometres, through Ethiopia. It passed over the Ethiopian Highlands. Then it rested for 29 days near Debre Markos in Ethiopia.
+
+[s8]
+On 3 December it moved on, heading south. In 9 days it flew at least 1,600 kilometres, through Kenya and Tanzania. Then it paused for 9 days in Tanzania.
+
+[s9]
+On 20 December it moved on, heading south-west. In 9 days it flew at least 2,200 kilometres, through Zambia, Zimbabwe and Botswana. Then it stopped for 6 days in Botswana.
+
+[s10]
+On 3 January it moved on, heading south. In 20 days it flew at least 1,600 kilometres, through South Africa. Its route crossed the Kalahari Desert.
+
+[s11]
+On its very first migration, AR445 reached South Africa, near Vereeniging on 23 January 2014, 9,097 kilometres from where it was tagged. That is at least 13,100 kilometres in 157 days.
+
+[s12]
+The data follows AR445 for 6 more months, until 12 July 2014. In that time it flew at least another 9,900 kilometres, and its last recorded position was in Belarus, just 797 kilometres from where it started.

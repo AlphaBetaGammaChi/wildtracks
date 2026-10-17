@@ -1,0 +1,480 @@
+{
+  "study_slug": "white-stork-8-populations",
+  "animal": "DER AR445",
+  "name": "DER AR445",
+  "has_nickname": false,
+  "species": {
+    "taxon": "Ciconia ciconia",
+    "common": "white stork",
+    "verb": "flew",
+    "icon": "bird"
+  },
+  "life_stage": "juvenile",
+  "sex": null,
+  "tagged_site": "Russia",
+  "tag_deployed": "2013-07-12 09:15:53.000",
+  "tag_maker": "e-obs GmbH",
+  "outcome": null,
+  "study": {
+    "title": "Data from: Costs of migratory decisions: a comparison across eight white stork populations",
+    "authors": [
+      "Flack, Andrea",
+      "Fiedler, Wolfgang",
+      "Blas, Julio",
+      "Pokrovsky, Ivan",
+      "Mitropolsky, B.",
+      "Kaatz, Michael",
+      "Aghababyan, Karen",
+      "Khachatryan, A.",
+      "Fakriadis, Ioannis",
+      "Makrigianni, Eleni",
+      "Jerzak, Leszek",
+      "Shamin, M.",
+      "Shamina, C.",
+      "Azafzaf, H.",
+      "Mokotjomela, Thabiso M.",
+      "Feltrup-Azafzaf, Claudia",
+      "Wikelski, Martin"
+    ],
+    "year": "2015",
+    "license": "CC0 1.0",
+    "data_citation": "Flack, Andrea; Fiedler, Wolfgang; Blas, Julio; Pokrovsky, Ivan; Mitropolsky, B.; Kaatz, Michael; Aghababyan, Karen; Khachatryan, A.; Fakriadis, Ioannis; Makrigianni, Eleni; Jerzak, Leszek; Shamin, M.; Shamina, C.; Azafzaf, H.; Mokotjomela, Thabiso M.; Feltrup-Azafzaf, Claudia; Wikelski, Martin (2015). Data from: Costs of migratory decisions: a comparison across eight white stork populations. Movebank Data Repository. https://doi.org/10.5441/001/1.78152p3q",
+    "doi": "10.5441/001/1.78152p3q",
+    "repository_url": "https://datarepository.movebank.org/handle/10255/move.417"
+  },
+  "fixes": 6945,
+  "whole": {
+    "start": "2013-07-12T09:15:53+00:00",
+    "end": "2014-07-12T18:00:06+00:00",
+    "days": 365.4,
+    "km": 23175,
+    "straight_km": 797,
+    "heading": "west",
+    "countries": [
+      "Russia",
+      "Ukraine",
+      "Bulgaria",
+      "Turkey",
+      "Syria",
+      "Palestine",
+      "Israel",
+      "Egypt",
+      "Sudan",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Tanzania",
+      "Zambia",
+      "Zimbabwe",
+      "Botswana",
+      "South Africa",
+      "Uganda",
+      "S. Sudan",
+      "Lebanon",
+      "Romania",
+      "Belarus"
+    ],
+    "seas": [
+      {
+        "name": "Black Sea",
+        "max_offshore_km": 10,
+        "open_water": false
+      },
+      {
+        "name": "Sea of Marmara",
+        "max_offshore_km": 8,
+        "open_water": false
+      },
+      {
+        "name": "Mediterranean Sea",
+        "max_offshore_km": 8,
+        "open_water": false
+      },
+      {
+        "name": "Red Sea",
+        "max_offshore_km": 16,
+        "open_water": false
+      },
+      {
+        "name": "Gulf of Suez",
+        "max_offshore_km": 5,
+        "open_water": false
+      }
+    ],
+    "deserts": [
+      "Sahara",
+      "Western Desert",
+      "Libyan Desert",
+      "Nubian Desert",
+      "Kalahari Desert"
+    ],
+    "ranges": [
+      "Ethiopian Highlands",
+      "Muchinga Mts.",
+      "Balkan Mts.",
+      "Carpathian Mountains"
+    ],
+    "start_place": {
+      "country": "Russia",
+      "sea": null,
+      "desert": null,
+      "range": null,
+      "town": "Obninsk",
+      "town_km": 54
+    },
+    "end_place": {
+      "country": "Belarus",
+      "sea": null,
+      "desert": null,
+      "range": null,
+      "town": null,
+      "town_km": null
+    }
+  },
+  "journey": {
+    "start": "2013-08-20T00:00:23+00:00",
+    "end": "2014-01-23T18:00:07+00:00",
+    "days": 156.7,
+    "km": 13187,
+    "straight_km": 9097,
+    "heading": "south",
+    "countries": [
+      "Russia",
+      "Ukraine",
+      "Bulgaria",
+      "Turkey",
+      "Syria",
+      "Palestine",
+      "Israel",
+      "Egypt",
+      "Sudan",
+      "Eritrea",
+      "Ethiopia",
+      "Kenya",
+      "Tanzania",
+      "Zambia",
+      "Zimbabwe",
+      "Botswana",
+      "South Africa"
+    ],
+    "seas": [
+      {
+        "name": "Black Sea",
+        "max_offshore_km": 10,
+        "open_water": false
+      },
+      {
+        "name": "Sea of Marmara",
+        "max_offshore_km": 8,
+        "open_water": false
+      },
+      {
+        "name": "Mediterranean Sea",
+        "max_offshore_km": 8,
+        "open_water": false
+      },
+      {
+        "name": "Red Sea",
+        "max_offshore_km": 16,
+        "open_water": false
+      }
+    ],
+    "deserts": [
+      "Sahara",
+      "Western Desert",
+      "Libyan Desert",
+      "Nubian Desert",
+      "Kalahari Desert"
+    ],
+    "ranges": [
+      "Ethiopian Highlands"
+    ],
+    "start_place": {
+      "country": "Russia",
+      "sea": null,
+      "desert": null,
+      "range": null,
+      "town": "Obninsk",
+      "town_km": 56
+    },
+    "end_place": {
+      "country": "South Africa",
+      "sea": null,
+      "desert": null,
+      "range": null,
+      "town": "Vereeniging",
+      "town_km": 23
+    }
+  },
+  "journey_window": [
+    "2013-08-20T00:00:23+00:00",
+    "2014-01-23T18:00:07+00:00"
+  ],
+  "best_day": {
+    "date": "2013-09-09T00:00:00+00:00",
+    "km": 441,
+    "place": {
+      "country": "Sudan",
+      "sea": null,
+      "desert": "Nubian Desert",
+      "range": null,
+      "town": null,
+      "town_km": null
+    }
+  },
+  "farthest": {
+    "date": "2014-02-27T12:00:23+00:00",
+    "km_from_start": 9141,
+    "place": {
+      "country": "South Africa",
+      "sea": null,
+      "desert": null,
+      "range": null,
+      "town": "Vereeniging",
+      "town_km": 34
+    }
+  },
+  "stays": [
+    {
+      "start": "2013-07-12T18:00:06+00:00",
+      "end": "2013-08-17T18:00:06+00:00",
+      "days": 37,
+      "lat": 55.3437,
+      "lon": 35.9006,
+      "place": {
+        "country": "Russia",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": "Obninsk",
+        "town_km": 54
+      }
+    },
+    {
+      "start": "2013-09-11T18:00:07+00:00",
+      "end": "2013-09-16T18:00:23+00:00",
+      "days": 6,
+      "lat": 16.7637,
+      "lon": 32.6416,
+      "place": {
+        "country": "Sudan",
+        "sea": null,
+        "desert": "Libyan Desert",
+        "range": null,
+        "town": null,
+        "town_km": null
+      }
+    },
+    {
+      "start": "2013-09-17T18:00:07+00:00",
+      "end": "2013-10-01T18:00:23+00:00",
+      "days": 15,
+      "lat": 15.6028,
+      "lon": 33.9228,
+      "place": {
+        "country": "Sudan",
+        "sea": null,
+        "desert": "Sahara",
+        "range": null,
+        "town": null,
+        "town_km": null
+      }
+    },
+    {
+      "start": "2013-10-04T18:00:06+00:00",
+      "end": "2013-10-12T18:00:06+00:00",
+      "days": 9,
+      "lat": 15.217,
+      "lon": 34.7178,
+      "place": {
+        "country": "Sudan",
+        "sea": null,
+        "desert": "Sahara",
+        "range": null,
+        "town": null,
+        "town_km": null
+      }
+    },
+    {
+      "start": "2013-10-15T18:00:07+00:00",
+      "end": "2013-10-18T18:00:23+00:00",
+      "days": 4,
+      "lat": 14.0158,
+      "lon": 35.0246,
+      "place": {
+        "country": "Sudan",
+        "sea": null,
+        "desert": "Sahara",
+        "range": null,
+        "town": "Gedaref",
+        "town_km": 38
+      }
+    },
+    {
+      "start": "2013-10-19T18:00:06+00:00",
+      "end": "2013-10-25T18:00:06+00:00",
+      "days": 7,
+      "lat": 14.4699,
+      "lon": 36.2001,
+      "place": {
+        "country": "Sudan",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": null,
+        "town_km": null
+      }
+    },
+    {
+      "start": "2013-11-05T18:00:23+00:00",
+      "end": "2013-12-03T18:00:06+00:00",
+      "days": 29,
+      "lat": 10.2137,
+      "lon": 37.6067,
+      "place": {
+        "country": "Ethiopia",
+        "sea": null,
+        "desert": null,
+        "range": "Ethiopian Highlands",
+        "town": "Debre Markos",
+        "town_km": 19
+      }
+    },
+    {
+      "start": "2013-12-12T18:00:06+00:00",
+      "end": "2013-12-20T18:00:07+00:00",
+      "days": 9,
+      "lat": -3.9165,
+      "lon": 35.0691,
+      "place": {
+        "country": "Tanzania",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": null,
+        "town_km": null
+      }
+    },
+    {
+      "start": "2013-12-29T18:00:07+00:00",
+      "end": "2014-01-03T18:00:07+00:00",
+      "days": 6,
+      "lat": -20.1795,
+      "lon": 26.5511,
+      "place": {
+        "country": "Botswana",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": null,
+        "town_km": null
+      }
+    },
+    {
+      "start": "2014-01-23T18:00:07+00:00",
+      "end": "2014-03-09T18:00:11+00:00",
+      "days": 46,
+      "lat": -26.551,
+      "lon": 28.2812,
+      "place": {
+        "country": "South Africa",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": "Vereeniging",
+        "town_km": 34
+      }
+    },
+    {
+      "start": "2014-04-14T18:00:23+00:00",
+      "end": "2014-05-04T18:00:07+00:00",
+      "days": 21,
+      "lat": 29.0102,
+      "lon": 33.8458,
+      "place": {
+        "country": "Egypt",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": null,
+        "town_km": null
+      }
+    },
+    {
+      "start": "2014-05-15T18:00:45+00:00",
+      "end": "2014-05-25T18:00:07+00:00",
+      "days": 11,
+      "lat": 41.1558,
+      "lon": 29.366,
+      "place": {
+        "country": "Turkey",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": "Istanbul",
+        "town_km": 30
+      }
+    },
+    {
+      "start": "2014-05-29T18:00:07+00:00",
+      "end": "2014-06-01T18:00:23+00:00",
+      "days": 4,
+      "lat": 46.7498,
+      "lon": 26.9412,
+      "place": {
+        "country": "Romania",
+        "sea": null,
+        "desert": null,
+        "range": "Carpathian Mountains",
+        "town": "Bac\u0103u",
+        "town_km": 19
+      }
+    },
+    {
+      "start": "2014-06-03T18:00:07+00:00",
+      "end": "2014-06-07T18:00:23+00:00",
+      "days": 5,
+      "lat": 48.3866,
+      "lon": 25.5814,
+      "place": {
+        "country": "Ukraine",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": "Chernivtsi",
+        "town_km": 27
+      }
+    },
+    {
+      "start": "2014-06-08T18:00:07+00:00",
+      "end": "2014-06-28T18:00:07+00:00",
+      "days": 21,
+      "lat": 49.2746,
+      "lon": 26.049,
+      "place": {
+        "country": "Ukraine",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": "Ternopil",
+        "town_km": 45
+      }
+    },
+    {
+      "start": "2014-06-29T18:00:06+00:00",
+      "end": "2014-07-12T18:00:06+00:00",
+      "days": 14,
+      "lat": 52.3547,
+      "lon": 24.8874,
+      "place": {
+        "country": "Belarus",
+        "sea": null,
+        "desert": null,
+        "range": null,
+        "town": null,
+        "town_km": null
+      }
+    }
+  ],
+  "travel_days": 113
+}

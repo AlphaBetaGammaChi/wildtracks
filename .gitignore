@@ -1,0 +1,18 @@
+# env / deps
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+
+# big raw data — re-download with `wildtracks fetch`
+data/studies/*/gps.csv
+data/studies/*/gps.csv.zip
+data/studies/*/thinned_hourly.csv.gz
+
+# render intermediates — videos live in docs/videos for the site
+tracks/*/out/
+tracks/*/maplibre-gl-*.mjs
+
+# personal ringing records — kept locally, not published
+data/ringing/

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="WildlifeTrackVideoPrep" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Herring Gull - Black ring with white code: JMC43 LBM;RBNW(JMC43)</name><desc>Colour-ringed individual tracked over 3 verified encounters across Western Europe & Scandinavia.</desc></metadata>
+  <trk>
+    <name>Herring Gull Flight Route</name>
+    <trkseg>
+      <trkpt lat="60.38444" lon="5.32861"><time>22.07 2024 19:-- Accurate to the day</time></trkpt>
+      <trkpt lat="60.39083" lon="5.3275"><time>26.08 2024 --:-- Accurate to the day</time></trkpt>
+      <trkpt lat="60.39111" lon="5.3275"><time>26.08 2024 15:14 Accurate to the day</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

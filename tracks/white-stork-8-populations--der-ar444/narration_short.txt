@@ -1,0 +1,18 @@
+# White stork AR444 (short)
+# Read each [scene] as written, leaving a short pause between scenes.
+# To change the wording, edit scenes_<format>.json and run `wildtracks narration <track>`.
+
+[s1]
+This young white stork flew from Russia to Ethiopia. This is its real GPS track.
+
+[s2]
+In July 2013, researchers put a GPS tag on it in Russia. Its code: AR444.
+
+[s3]
+On 19 August 2013, AR444 set off south-west. In 28 days it flew at least 6,100 kilometres, through Ukraine, Romania and 7 more countries, all the way to Chad. Its route crossed the Sahara. Then it stopped for 12 days in Chad.
+
+[s4]
+On 26 September it moved on, heading east. In 49 days it flew at least 3,000 kilometres, through S. Sudan and Ethiopia.
+
+[s5]
+On its very first migration, AR444 reached Ethiopia on 14 November 2013: at least 9,300 kilometres in 88 days.

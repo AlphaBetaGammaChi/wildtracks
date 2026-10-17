@@ -1,0 +1,13 @@
+DER AR445 the white stork — a real GPS track
+
+A wild white stork (Ciconia ciconia), tracked by GPS from
+2013-08-20 to 2014-01-23: at least 13187 km, Russia → South Africa.
+The whole recording spans 365.4 days.
+
+Every position in this video is a real GPS fix. Distances are straight lines between
+nightly roosts, so the true distance flown was higher.
+
+Data (please keep this credit):
+Flack, Andrea; Fiedler, Wolfgang; Blas, Julio; Pokrovsky, Ivan; Mitropolsky, B.; Kaatz, Michael; Aghababyan, Karen; Khachatryan, A.; Fakriadis, Ioannis; Makrigianni, Eleni; Jerzak, Leszek; Shamin, M.; Shamina, C.; Azafzaf, H.; Mokotjomela, Thabiso M.; Feltrup-Azafzaf, Claudia; Wikelski, Martin (2015). Data from: Costs of migratory decisions: a comparison across eight white stork populations. Movebank Data Repository. https://doi.org/10.5441/001/1.78152p3q
+Licence: CC0 1.0 · DOI: 10.5441/001/1.78152p3q
+Map data: Natural Earth (public domain); street style: © OpenMapTiles, © OpenStreetMap contributors.

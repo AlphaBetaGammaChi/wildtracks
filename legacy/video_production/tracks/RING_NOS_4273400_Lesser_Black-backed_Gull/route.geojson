@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.32861,
+            60.38444
+          ],
+          [
+            5.3275,
+            60.39111
+          ]
+        ]
+      },
+      "properties": {
+        "track_id": "RING_NOS_4273400",
+        "name": "Lesser Black-backed Gull (Black ring with white code: JP36R LBM;RBNW(JP36R))",
+        "total_distance_km": 0.7,
+        "total_duration_days": 0.0,
+        "start_location": "Realfagsbygget, Nyg\u00e5rdsh\u00f8yden, Bergen, Hordaland, Norway",
+        "end_location": "Byparken, Bergen, Hordaland, Norway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32861,
+          60.38444
+        ]
+      },
+      "properties": {
+        "index": 1,
+        "timestamp": "20.08 2024 14:-- Accurate to the day",
+        "location_name": "Realfagsbygget, Nyg\u00e5rdsh\u00f8yden, Bergen, Hordaland, Norway",
+        "event_type": "ringing",
+        "notes": "Initially banded by Arild Breist\u00f8l"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3275,
+          60.39111
+        ]
+      },
+      "properties": {
+        "index": 2,
+        "timestamp": "26.08 2024 15:14 Accurate to the day",
+        "location_name": "Byparken, Bergen, Hordaland, Norway",
+        "event_type": "resighting",
+        "notes": "Observed: 1 km, Time elapsed: 6 days (0 years, 0 months and 6 days)"
+      }
+    }
+  ]
+}

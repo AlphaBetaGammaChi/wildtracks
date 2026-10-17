@@ -1,0 +1,130 @@
+{
+  "format": "long",
+  "label": "AR445",
+  "title": "White stork AR445",
+  "subtitle": "Russia to South Africa",
+  "scenes": [
+    {
+      "id": "s1",
+      "kind": "hook",
+      "text": "This young white stork flew from Russia to South Africa. This is its real GPS track.",
+      "t0": "2013-08-20T00:00:23+00:00",
+      "t1": "2014-01-23T18:00:07+00:00",
+      "camera": "overview",
+      "seconds": 7.0
+    },
+    {
+      "id": "s2",
+      "kind": "intro",
+      "text": "In July 2013, researchers put a GPS tag on it near Obninsk in Russia. Its code: AR445.",
+      "t0": "2013-07-12T09:15:53+00:00",
+      "t1": "2013-08-20T00:00:23+00:00",
+      "camera": "start",
+      "seconds": 7.4
+    },
+    {
+      "id": "s3",
+      "kind": "leg",
+      "text": "On 20 August 2013, AR445 set off south. In 23 days it flew at least 4,900 kilometres, through Ukraine, Bulgaria, Turkey, Syria, Palestine, Israel, Egypt and Sudan. Like most storks it avoided open sea, keeping close to land along the Black Sea, Sea of Marmara, Mediterranean Sea and Red Sea. Its route crossed the Sahara. On 9 September alone it covered 441 kilometres, its biggest day. Then it stopped for 6 days in Sudan.",
+      "t0": "2013-08-20T00:00:23+00:00",
+      "t1": "2013-09-11T18:00:07+00:00",
+      "camera": "follow",
+      "seconds": 30.2
+    },
+    {
+      "id": "s4",
+      "kind": "leg",
+      "text": "On 16 September it moved on, heading south-east. In 1 day it flew at least 170 kilometres. Then it rested for 15 days in Sudan.",
+      "t0": "2013-09-16T18:00:23+00:00",
+      "t1": "2013-09-17T18:00:07+00:00",
+      "camera": "follow",
+      "seconds": 10.6
+    },
+    {
+      "id": "s5",
+      "kind": "leg",
+      "text": "On 1 October it moved on, heading east. In 3 days it flew at least 190 kilometres. Then it paused for 9 days in Sudan.",
+      "t0": "2013-10-01T18:00:23+00:00",
+      "t1": "2013-10-04T18:00:06+00:00",
+      "camera": "follow",
+      "seconds": 10.6
+    },
+    {
+      "id": "s6",
+      "kind": "leg",
+      "text": "On 12 October it moved on, heading south-east. In 7 days it flew at least 620 kilometres, through Eritrea. Then it stopped for 7 days in Sudan.",
+      "t0": "2013-10-12T18:00:06+00:00",
+      "t1": "2013-10-19T18:00:06+00:00",
+      "camera": "follow",
+      "seconds": 11.4
+    },
+    {
+      "id": "s7",
+      "kind": "leg",
+      "text": "On 25 October it moved on, heading south. In 11 days it flew at least 920 kilometres, through Ethiopia. It passed over the Ethiopian Highlands. Then it rested for 29 days near Debre Markos in Ethiopia.",
+      "t0": "2013-10-25T18:00:06+00:00",
+      "t1": "2013-11-05T18:00:23+00:00",
+      "camera": "follow",
+      "seconds": 15.0
+    },
+    {
+      "id": "s8",
+      "kind": "leg",
+      "text": "On 3 December it moved on, heading south. In 9 days it flew at least 1,600 kilometres, through Kenya and Tanzania. Then it paused for 9 days in Tanzania.",
+      "t0": "2013-12-03T18:00:06+00:00",
+      "t1": "2013-12-12T18:00:06+00:00",
+      "camera": "follow",
+      "seconds": 12.2
+    },
+    {
+      "id": "s9",
+      "kind": "leg",
+      "text": "On 20 December it moved on, heading south-west. In 9 days it flew at least 2,200 kilometres, through Zambia, Zimbabwe and Botswana. Then it stopped for 6 days in Botswana.",
+      "t0": "2013-12-20T18:00:07+00:00",
+      "t1": "2013-12-29T18:00:07+00:00",
+      "camera": "follow",
+      "seconds": 12.6
+    },
+    {
+      "id": "s10",
+      "kind": "leg",
+      "text": "On 3 January it moved on, heading south. In 20 days it flew at least 1,600 kilometres, through South Africa. Its route crossed the Kalahari Desert.",
+      "t0": "2014-01-03T18:00:07+00:00",
+      "t1": "2014-01-23T18:00:07+00:00",
+      "camera": "follow",
+      "seconds": 11.0
+    },
+    {
+      "id": "s11",
+      "kind": "arrival",
+      "text": "On its very first migration, AR445 reached South Africa, near Vereeniging on 23 January 2014, 9,097 kilometres from where it was tagged. That is at least 13,100 kilometres in 157 days.",
+      "t0": "2014-01-23T18:00:07+00:00",
+      "t1": "2014-01-23T18:00:07+00:00",
+      "camera": "overview",
+      "seconds": 13.0
+    },
+    {
+      "id": "s12",
+      "kind": "after",
+      "text": "The data follows AR445 for 6 more months, until 12 July 2014. In that time it flew at least another 9,900 kilometres, and its last recorded position was in Belarus, just 797 kilometres from where it started.",
+      "t0": "2014-01-23T18:00:07+00:00",
+      "t1": "2014-07-12T18:00:06+00:00",
+      "camera": "follow",
+      "seconds": 15.4
+    },
+    {
+      "id": "s13",
+      "kind": "credits",
+      "text": "",
+      "t0": "2014-07-12T18:00:06+00:00",
+      "t1": "2014-07-12T18:00:06+00:00",
+      "camera": "overview",
+      "seconds": 4.0
+    }
+  ],
+  "credits": {
+    "data": "Flack, Andrea; Fiedler, Wolfgang; Blas, Julio; Pokrovsky, Ivan; Mitropolsky, B.; Kaatz, Michael; Aghababyan, Karen; Khachatryan, A.; Fakriadis, Ioannis; Makrigianni, Eleni; Jerzak, Leszek; Shamin, M.; Shamina, C.; Azafzaf, H.; Mokotjomela, Thabiso M.; Feltrup-Azafzaf, Claudia; Wikelski, Martin (2015). Data from: Costs of migratory decisions: a comparison across eight white stork populations. Movebank Data Repository. https://doi.org/10.5441/001/1.78152p3q",
+    "license": "CC0 1.0",
+    "doi": "10.5441/001/1.78152p3q"
+  }
+}

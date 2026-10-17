@@ -1,0 +1,222 @@
+{
+  "track_id": "RING_NOS_4298047",
+  "common_name": "Herring Gull",
+  "scientific_name": "Larus argentatus",
+  "animal_id": "Black ring with white code: JA2C4 LBNW(JA2C4);RBM",
+  "display_id": "Gull JA2C4",
+  "category": "Bird",
+  "tag_type": "Colour Ring & Metal Band",
+  "dataset_source": "Ringing Recovery (RING-NOS-4298047.txt)",
+  "start_location": "Klemetsrud, Oslo, Akershus & Oslo, Norway",
+  "end_location": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+  "start_date": "22.03 2024 --:-- Accurate to the day",
+  "end_date": "02.09 2024 15:30 Accurate to the day",
+  "total_distance_km": 11.4,
+  "total_duration_days": 0.0,
+  "waypoints_count": 18,
+  "record_highlight": "Colour-ringed individual tracked over 18 verified encounters across Western Europe & Scandinavia.",
+  "geo_features": [
+    "North Sea / Scandinavian Coastline"
+  ],
+  "waypoints": [
+    {
+      "index": 1,
+      "lat": 59.83194,
+      "lng": 10.84972,
+      "timestamp": "22.03 2024 --:-- Accurate to the day",
+      "location_name": "Klemetsrud, Oslo, Akershus & Oslo, Norway",
+      "event_type": "ringing",
+      "notes": "Initially banded by Morten Helberg, Marta Maciejewska",
+      "observer": "Morten Helberg, Marta Maciejewska",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 2,
+      "lat": 59.90389,
+      "lng": 10.76167,
+      "timestamp": "19.04 2024 12:30 Accurate to the day",
+      "location_name": "Middelalderparken, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 9 km, Time elapsed: 28 days (0 years, 0 months and 28 days)",
+      "observer": "Sarah Fossheim, Marta Maciejewska",
+      "distance_from_prev_km": 9.39
+    },
+    {
+      "index": 3,
+      "lat": 59.90889,
+      "lng": 10.75167,
+      "timestamp": "16.05 2024 20:40 Accurate to the day",
+      "location_name": "Anne-Cath. Vestlys plass, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 55 days (0 years, 1 months and 24 days)",
+      "observer": "Isabelle Monceyron R\u00f8ren",
+      "distance_from_prev_km": 0.79
+    },
+    {
+      "index": 4,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "18.05 2024 15:45 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 57 days (0 years, 1 months and 26 days)",
+      "observer": "Isabelle Monceyron R\u00f8ren, Paul Monceyron R\u00f8ren",
+      "distance_from_prev_km": 0.17
+    },
+    {
+      "index": 5,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "19.05 2024 09:00 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 58 days (0 years, 1 months and 27 days)",
+      "observer": "Marta Maciejewska",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 6,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "07.07 2024 10:30 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 107 days (0 years, 3 months and 15 days)",
+      "observer": "Runa S. Madsen",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 7,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "15.07 2024 15:45 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 115 days (0 years, 3 months and 23 days)",
+      "observer": "Runa S. Madsen",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 8,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "17.07 2024 15:40 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 117 days (0 years, 3 months and 25 days)",
+      "observer": "Runa S. Madsen",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 9,
+      "lat": 59.9075,
+      "lng": 10.75167,
+      "timestamp": "21.07 2024 --:-- Accurate to the day",
+      "location_name": "Operaen, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 121 days (0 years, 3 months and 29 days)",
+      "observer": "Tom Nylund",
+      "distance_from_prev_km": 0.06
+    },
+    {
+      "index": 10,
+      "lat": 59.9075,
+      "lng": 10.75167,
+      "timestamp": "23.07 2024 12:20 Accurate to the day",
+      "location_name": "Operaen, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 123 days (0 years, 4 months and 1 days)",
+      "observer": "Martin Baptist",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 11,
+      "lat": 59.9075,
+      "lng": 10.75167,
+      "timestamp": "23.07 2024 12:25 Accurate to the day",
+      "location_name": "Operaen, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 123 days (0 years, 4 months and 1 days)",
+      "observer": "Cora K\u00f6berle",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 12,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "05.08 2024 15:45 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 136 days (0 years, 4 months and 14 days)",
+      "observer": "Runa S. Madsen",
+      "distance_from_prev_km": 0.06
+    },
+    {
+      "index": 13,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "19.08 2024 16:20 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 150 days (0 years, 4 months and 28 days)",
+      "observer": "Isabelle Monceyron R\u00f8ren",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 14,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "20.08 2024 18:30 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 151 days (0 years, 4 months and 29 days)",
+      "observer": "Runa S. Madsen",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 15,
+      "lat": 59.90417,
+      "lng": 10.75222,
+      "timestamp": "23.08 2024 17:48 Accurate to the day",
+      "location_name": "Opera House, Oslo, Mandal, Vest-Agder, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 154 days (0 years, 5 months and 1 days)",
+      "observer": "Allan Foster",
+      "distance_from_prev_km": 0.38
+    },
+    {
+      "index": 16,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "29.08 2024 18:00 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 160 days (0 years, 5 months and 7 days)",
+      "observer": "Isabelle Monceyron R\u00f8ren",
+      "distance_from_prev_km": 0.38
+    },
+    {
+      "index": 17,
+      "lat": 59.9075,
+      "lng": 10.75167,
+      "timestamp": "30.08 2024 --:-- Accurate to the day",
+      "location_name": "Operaen, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 161 days (0 years, 5 months and 8 days)",
+      "observer": "Morten Helberg",
+      "distance_from_prev_km": 0.06
+    },
+    {
+      "index": 18,
+      "lat": 59.9075,
+      "lng": 10.75056,
+      "timestamp": "02.09 2024 15:30 Accurate to the day",
+      "location_name": "Operafj\u00e6ra, Oslo, Akershus & Oslo, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 10 km, Time elapsed: 164 days (0 years, 5 months and 11 days)",
+      "observer": "Runa S. Madsen",
+      "distance_from_prev_km": 0.06
+    }
+  ],
+  "metadata": {}
+}

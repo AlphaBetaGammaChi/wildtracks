@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lesser Black-backed Gull (Black ring with white code: JP36R LBM;RBNW(JP36R)) Migration Route</name>
+    <description>Colour-ringed individual tracked over 2 verified encounters across Western Europe & Scandinavia. - Distance: 0.7 km</description>
+    <Style id="routeLine">
+      <LineStyle>
+        <color>ff00aaff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Lesser Black-backed Gull Track</name>
+      <styleUrl>#routeLine</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>5.32861,60.38444,150 5.3275,60.39111,150</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

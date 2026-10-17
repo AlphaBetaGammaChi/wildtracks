@@ -1,0 +1,46 @@
+{
+  "track_id": "RING_NOS_4273400",
+  "common_name": "Lesser Black-backed Gull",
+  "scientific_name": "Larus fuscus",
+  "animal_id": "Black ring with white code: JP36R LBM;RBNW(JP36R)",
+  "display_id": "Gull JP36R",
+  "category": "Bird",
+  "tag_type": "Colour Ring & Metal Band",
+  "dataset_source": "Ringing Recovery (RING-NOS-4273400.txt)",
+  "start_location": "Realfagsbygget, Nyg\u00e5rdsh\u00f8yden, Bergen, Hordaland, Norway",
+  "end_location": "Byparken, Bergen, Hordaland, Norway",
+  "start_date": "20.08 2024 14:-- Accurate to the day",
+  "end_date": "26.08 2024 15:14 Accurate to the day",
+  "total_distance_km": 0.7,
+  "total_duration_days": 0.0,
+  "waypoints_count": 2,
+  "record_highlight": "Colour-ringed individual tracked over 2 verified encounters across Western Europe & Scandinavia.",
+  "geo_features": [
+    "North Sea / Scandinavian Coastline"
+  ],
+  "waypoints": [
+    {
+      "index": 1,
+      "lat": 60.38444,
+      "lng": 5.32861,
+      "timestamp": "20.08 2024 14:-- Accurate to the day",
+      "location_name": "Realfagsbygget, Nyg\u00e5rdsh\u00f8yden, Bergen, Hordaland, Norway",
+      "event_type": "ringing",
+      "notes": "Initially banded by Arild Breist\u00f8l",
+      "observer": "Arild Breist\u00f8l",
+      "distance_from_prev_km": 0.0
+    },
+    {
+      "index": 2,
+      "lat": 60.39111,
+      "lng": 5.3275,
+      "timestamp": "26.08 2024 15:14 Accurate to the day",
+      "location_name": "Byparken, Bergen, Hordaland, Norway",
+      "event_type": "resighting",
+      "notes": "Observed: 1 km, Time elapsed: 6 days (0 years, 0 months and 6 days)",
+      "observer": "Allan Foster",
+      "distance_from_prev_km": 0.74
+    }
+  ],
+  "metadata": {}
+}

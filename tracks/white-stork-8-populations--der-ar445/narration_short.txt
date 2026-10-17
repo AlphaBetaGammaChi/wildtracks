@@ -1,0 +1,18 @@
+# White stork AR445 (short)
+# Read each [scene] as written, leaving a short pause between scenes.
+# To change the wording, edit scenes_<format>.json and run `wildtracks narration <track>`.
+
+[s1]
+This young white stork flew from Russia to South Africa. This is its real GPS track.
+
+[s2]
+In July 2013, researchers put a GPS tag on it in Russia. Its code: AR445.
+
+[s3]
+On 20 August 2013, AR445 set off south. In 78 days it flew at least 7,100 kilometres, through Ukraine, Bulgaria and 7 more countries, all the way to Ethiopia. Its route crossed the Sahara. Then it stopped for 29 days near Debre Markos in Ethiopia.
+
+[s4]
+On 3 December it moved on, heading south. In 51 days it flew at least 5,600 kilometres, through Kenya, Tanzania and 3 more countries, all the way to South Africa. Its route crossed the Kalahari Desert.
+
+[s5]
+On its very first migration, AR445 reached South Africa on 23 January 2014: at least 13,100 kilometres in 157 days.

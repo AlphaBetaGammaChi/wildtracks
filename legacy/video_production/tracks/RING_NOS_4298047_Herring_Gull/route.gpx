@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="WildlifeTrackVideoPrep" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Herring Gull - Black ring with white code: JA2C4 LBNW(JA2C4);RBM</name><desc>Colour-ringed individual tracked over 18 verified encounters across Western Europe & Scandinavia.</desc></metadata>
+  <trk>
+    <name>Herring Gull Flight Route</name>
+    <trkseg>
+      <trkpt lat="59.83194" lon="10.84972"><time>22.03 2024 --:-- Accurate to the day</time></trkpt>
+      <trkpt lat="59.90389" lon="10.76167"><time>19.04 2024 12:30 Accurate to the day</time></trkpt>
+      <trkpt lat="59.90889" lon="10.75167"><time>16.05 2024 20:40 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>18.05 2024 15:45 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>19.05 2024 09:00 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>07.07 2024 10:30 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>15.07 2024 15:45 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>17.07 2024 15:40 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75167"><time>21.07 2024 --:-- Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75167"><time>23.07 2024 12:20 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75167"><time>23.07 2024 12:25 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>05.08 2024 15:45 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>19.08 2024 16:20 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>20.08 2024 18:30 Accurate to the day</time></trkpt>
+      <trkpt lat="59.90417" lon="10.75222"><time>23.08 2024 17:48 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>29.08 2024 18:00 Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75167"><time>30.08 2024 --:-- Accurate to the day</time></trkpt>
+      <trkpt lat="59.9075" lon="10.75056"><time>02.09 2024 15:30 Accurate to the day</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

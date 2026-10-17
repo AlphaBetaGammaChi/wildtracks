@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Herring Gull (Black ring with white code: JMT94 LBM;RBNW(JMT94)) Migration Route</name>
+    <description>Colour-ringed individual tracked over 20 verified encounters across Western Europe & Scandinavia. - Distance: 1.9 km</description>
+    <Style id="routeLine">
+      <LineStyle>
+        <color>ff00aaff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Herring Gull Track</name>
+      <styleUrl>#routeLine</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>10.74944,59.90611,150 10.74944,59.90611,150 10.75778,59.90611,150 10.75167,59.9075,150 10.75056,59.9075,150 10.75056,59.9075,150 10.75167,59.9075,150 10.75167,59.9075,150 10.75056,59.9075,150 10.75056,59.9075,150 10.75056,59.9075,150 10.75167,59.9075,150 10.75167,59.9075,150 10.75056,59.9075,150 10.75056,59.9075,150 10.75056,59.9075,150 10.75056,59.9075,150 10.75222,59.90417,150 10.75056,59.9075,150 10.75056,59.9075,150</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

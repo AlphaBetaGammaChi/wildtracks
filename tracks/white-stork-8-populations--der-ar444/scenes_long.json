@@ -1,0 +1,103 @@
+{
+  "format": "long",
+  "label": "AR444",
+  "title": "White stork AR444",
+  "subtitle": "Russia to Ethiopia",
+  "scenes": [
+    {
+      "id": "s1",
+      "kind": "hook",
+      "text": "This young white stork flew from Russia to Ethiopia. This is its real GPS track.",
+      "t0": "2013-08-19T00:00:23+00:00",
+      "t1": "2013-11-14T18:00:07+00:00",
+      "camera": "overview",
+      "seconds": 6.6
+    },
+    {
+      "id": "s2",
+      "kind": "intro",
+      "text": "In July 2013, researchers put a GPS tag on it near Obninsk in Russia. Its code: AR444.",
+      "t0": "2013-07-12T09:15:23+00:00",
+      "t1": "2013-08-19T00:00:23+00:00",
+      "camera": "start",
+      "seconds": 7.4
+    },
+    {
+      "id": "s3",
+      "kind": "leg",
+      "text": "On 19 August 2013, AR444 set off south. In 3 days it flew at least 280 kilometres. Then it stopped for 4 days near Bryansk in Russia.",
+      "t0": "2013-08-19T00:00:23+00:00",
+      "t1": "2013-08-21T18:00:07+00:00",
+      "camera": "follow",
+      "seconds": 11.4
+    },
+    {
+      "id": "s4",
+      "kind": "leg",
+      "text": "On 24 August it moved on, heading south-west. In 22 days it flew at least 5,700 kilometres, through Ukraine, Romania, Bulgaria, Turkey, Syria, Israel, Palestine, Egypt, Sudan and Chad. Like most storks it avoided open sea, keeping close to land along the Black Sea, Sea of Marmara, Mediterranean Sea and Gulf of Suez. Its route crossed the Sahara. On 9 September alone it covered 581 kilometres, its biggest day. Then it rested for 12 days in Chad.",
+      "t0": "2013-08-24T18:00:07+00:00",
+      "t1": "2013-09-15T18:00:07+00:00",
+      "camera": "follow",
+      "seconds": 31.4
+    },
+    {
+      "id": "s5",
+      "kind": "leg",
+      "text": "On 26 September it moved on, heading south-east. In 3 days it flew at least 170 kilometres. Then it paused for 10 days in Chad.",
+      "t0": "2013-09-26T18:00:06+00:00",
+      "t1": "2013-09-29T18:00:06+00:00",
+      "camera": "follow",
+      "seconds": 10.6
+    },
+    {
+      "id": "s6",
+      "kind": "leg",
+      "text": "On 8 October it moved on, heading east. In 14 days it flew at least 1,000 kilometres. Then it stopped for 8 days in Sudan.",
+      "t0": "2013-10-08T18:00:07+00:00",
+      "t1": "2013-10-22T18:00:07+00:00",
+      "camera": "follow",
+      "seconds": 10.6
+    },
+    {
+      "id": "s7",
+      "kind": "leg",
+      "text": "On 29 October it moved on, heading east. In 16 days it flew at least 1,600 kilometres, through S. Sudan and Ethiopia. It passed over the Ethiopian Highlands.",
+      "t0": "2013-10-29T18:00:07+00:00",
+      "t1": "2013-11-14T18:00:07+00:00",
+      "camera": "follow",
+      "seconds": 11.8
+    },
+    {
+      "id": "s8",
+      "kind": "arrival",
+      "text": "On its very first migration, AR444 reached Ethiopia on 14 November 2013, 5,078 kilometres from where it was tagged. That is at least 9,300 kilometres in 88 days.",
+      "t0": "2013-11-14T18:00:07+00:00",
+      "t1": "2013-11-14T18:00:07+00:00",
+      "camera": "overview",
+      "seconds": 11.8
+    },
+    {
+      "id": "s9",
+      "kind": "after",
+      "text": "The data follows AR444 for 8 more months, until 12 July 2014. In that time it flew at least another 12,600 kilometres, and its last recorded position was in Turkey, just 1,921 kilometres from where it started.",
+      "t0": "2013-11-14T18:00:07+00:00",
+      "t1": "2014-07-12T18:00:07+00:00",
+      "camera": "follow",
+      "seconds": 15.4
+    },
+    {
+      "id": "s10",
+      "kind": "credits",
+      "text": "",
+      "t0": "2014-07-12T18:00:07+00:00",
+      "t1": "2014-07-12T18:00:07+00:00",
+      "camera": "overview",
+      "seconds": 4.0
+    }
+  ],
+  "credits": {
+    "data": "Flack, Andrea; Fiedler, Wolfgang; Blas, Julio; Pokrovsky, Ivan; Mitropolsky, B.; Kaatz, Michael; Aghababyan, Karen; Khachatryan, A.; Fakriadis, Ioannis; Makrigianni, Eleni; Jerzak, Leszek; Shamin, M.; Shamina, C.; Azafzaf, H.; Mokotjomela, Thabiso M.; Feltrup-Azafzaf, Claudia; Wikelski, Martin (2015). Data from: Costs of migratory decisions: a comparison across eight white stork populations. Movebank Data Repository. https://doi.org/10.5441/001/1.78152p3q",
+    "license": "CC0 1.0",
+    "doi": "10.5441/001/1.78152p3q"
+  }
+}
