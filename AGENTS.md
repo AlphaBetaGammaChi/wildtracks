@@ -19,15 +19,26 @@ Every video follows genuine recorded telemetry — never invented routes.
 Use the venv: `.venv/bin/python -m wildtracks <cmd>`
 
 - `fetch <doi-or-url> --slug <name>` — download a Movebank study (CC0/CC-BY only)
-- `pick <slug>` — rank animals by story-worthiness
+- `pick <slug> [--min-fixes N]` — rank animals by story-worthiness
 - `track <slug> "<animal>"` — build a track package (facts, points, scenes, narration)
 - `script <track-id>` — rebuild scenes + narration after changing script.py
 - `narration <track-id>` — rewrite narration txt from edited scenes_*.json
 - `render <track-id> --format short|long --style vector|street|satellite|all [--frame N]`
+- `batch <slug> [--count N] [--animal NAME ...] [--format ...] [--style ...]` — pick top N and build+render each
+- `run <doi-or-csv> --slug <name> [--animal ...]` — one command: source → videos
+  - CSV imports auto-detect columns (time/lat/lon/animal/taxon); pass --license/--credit/--title
 - `status` — list tracks, videos, review state
 - `approve <track-id> <state>` — set review state
 - `dashboard [--port 8570]` — local review page: watch MP4s, set state
+- `site` — rebuild docs/ static site for GitHub Pages
 - tests: `.venv/bin/python -m pytest tests/`
+
+## Website
+
+Repo: https://github.com/AlphaBetaGammaChi/wildtracks
+Site: https://alphabetagammachi.github.io/wildtracks/ (GitHub Pages serves docs/ on main)
+Workflow: render videos → `wildtracks site` → commit + push → Pages republishes.
+Files over GitHub's 100 MB limit are skipped by the site builder.
 
 ## Voiceover sync
 
