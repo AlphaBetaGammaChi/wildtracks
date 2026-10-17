@@ -306,7 +306,7 @@ def main(argv=None):
     d.add_argument("--port", type=int, default=8570)
     d.set_defaults(fn=lambda a: _dashboard(a.port))
 
-    si = sub.add_parser("site", help="build a static website of videos into site/ (GitHub Pages ready)")
+    si = sub.add_parser("site", help="build a static website of videos into docs/ (GitHub Pages ready)")
     si.set_defaults(fn=lambda a: _site())
 
     args = p.parse_args(argv)
